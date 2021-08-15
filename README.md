@@ -1,1 +1,1 @@
-# jsCrash
+JS essentials in one
