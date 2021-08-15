@@ -134,3 +134,14 @@ function name() {
     document.body.innerHTML = hours+":"+mins+":"+secs;
 }
 setInterval(printTime, 1000); //set interval time to execute the funtion
+
+// finding elements from document method
+
+//finds element by id
+document.getElementById(id) 
+
+//finds elements by class name
+document.getElementsByClassName(name) 
+
+//finds elements by tag name
+document.getElementsByTagName(name)
